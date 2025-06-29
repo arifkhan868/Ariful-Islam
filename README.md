@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariful</h1>
-<h3 align="center">Learn SQL,PL/SQL, PostgreSQL, Power BI, Excel, Data Analytics, Power Point, Word, Graphic Design, Adobe Illustrator, Adobe Photoshop, Basic Python</h3>
+<h3 align="center">Learn SQL, PL/SQL, PostgreSQL, Power BI, Excel, Data Analytics, Power Point, Word, Graphic Design, Adobe Illustrator, Adobe Photoshop, Basic Python</h3>
 
 - 🌱 I’m currently learning **SQL**
 
